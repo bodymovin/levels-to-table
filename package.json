@@ -1,0 +1,19 @@
+{
+  "name": "levels-to-table",
+  "version": "1.0.0",
+  "description": "A module for converting image level values to an array of output values",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bodymovin/levels-to-table.git"
+  },
+  "author": "Hernan Torrisi <hernantorrisi@gmail.com> (http://codepen.io/airnan/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bodymovin/levels-to-table/issues"
+  },
+  "homepage": "https://github.com/bodymovin/levels-to-table#readme"
+}
